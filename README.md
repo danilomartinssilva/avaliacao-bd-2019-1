@@ -12,6 +12,7 @@
 * Crie uma consulta que retorne os campos <strong> (name, lastname, country) </strong> em maiúsculo.
 * Crie uma consulta que retorne o valor total de vendas realizadas: <Strong>orderdetails</strong>
 * Crie uma consulta que retorne os campos <strong> (orders.orderDate, orders.shippedDate,orders.comments , customers.name, customers.lastname, customers.phone,)</strong>. Para esta questão será necessário realizar uma consulta que relacione <strong>orders e customers</strong>
+## Ao término, chame o professor.
 
 
 
